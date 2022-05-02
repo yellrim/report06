@@ -78,7 +78,7 @@
     transition: 0.3s;
     position: relative;
 }
-.nav-level1>li:hover{
+.nav-level1>li:hover a{
     border-bottom-color: #528e86;
     color: #528e86;
 }
@@ -355,7 +355,7 @@
     text-align: center;
     color: #c0bdbd;
 }
-.footer h2:hover{
+.footer h2:hover a{
     color: #b7ced2;
 }
 .footer h3{
